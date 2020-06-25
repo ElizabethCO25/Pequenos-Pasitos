@@ -7996,10 +7996,10 @@ a {
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
   transition: .3s all ease;
-  color: #1eaaf1; }
+  color: rgb(6, 206, 49); }
   a:hover, a:focus {
     text-decoration: none;
-    color: #1eaaf1;
+    color: rgb(6, 206, 49);
     outline: none !important; }
 
 h1, h2, h3, h4, h5,
@@ -8009,7 +8009,7 @@ h1, h2, h3, h4, h5,
   font-weight: 400; }
 
 .text-primary {
-  color: #1eaaf1 !important; }
+  color: rgb(6, 206, 49) !important; }
 
 .topper {
   font-size: 15px;
@@ -8099,7 +8099,7 @@ h1, h2, h3, h4, h5,
       width: 2px;
       background: rgba(255, 255, 255, 0.05); }
       @media (max-width: 991.98px) {
-        .ftco-navbar-light .navbar-nav > .nav-item.ftco-seperator:before {
+        .ftco-navbar-light .navbar-nav > .nav-item.ftco-sepeator:before {
           display: none; } }
   .ftco-navbar-light .navbar-nav > .nav-item.cta > a {
     color: #000000; }
@@ -8110,9 +8110,9 @@ h1, h2, h3, h4, h5,
     @media (max-width: 991.98px) {
       .ftco-navbar-light .navbar-nav > .nav-item.cta > a {
         color: #fff;
-        background: #1eaaf1; } }
+        background: rgb(6, 206, 49) } }
   .ftco-navbar-light .navbar-nav > .nav-item.active > a {
-    color: #1eaaf1; }
+    color: rgb(6, 206, 49) }
     @media (max-width: 991.98px) {
       .ftco-navbar-light .navbar-nav > .nav-item.active > a {
         color: #fff; } }
@@ -8476,8 +8476,8 @@ h1, h2, h3, h4, h5,
         border-color: #fff;
         color: #1eaaf1; }
   .btn.btn-secondary {
-    background: #fda638;
-    border: 1px solid #fda638;
+    background: rgb(6, 206, 49);
+    border: 1px solid rgb(6, 206, 49);
     color: #fff; }
     .btn.btn-secondary:hover, .btn.btn-secondary:focus, .btn.btn-secondary:active {
       border: 1px solid #fda638;
